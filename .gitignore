@@ -6,3 +6,10 @@ input/genomeInformation.csv
 input/gtdbtk.ar53.summary.tsv
 input/gtdbtk.bac120.summary.tsv
 input/missing_bins_list.csv
+results/FINAL_all_clusters.xlsx
+results/FINAL_all_LQ_clusters.xlsx
+results/FINAL_all_LQ_clusters_m.xlsx
+results/FINAL_archaea_LQ_clusters_m.xlsx
+results/FINAL_archaea_LQ_clusters.xlsx
+results/FINAL_LQ_clusters_all_bins.xlsx
+results/FINAL_LQ_clusters.xlsx
